@@ -38,6 +38,22 @@ Contexte : revue de la politique budgétaire du laboratoire, structurée par un 
 ---
 layout: center
 ---
+# Contexte 1/2
+
+![](/img/DOR2026_1.png)
+
+---
+layout: center
+---
+# Contexte 2/2
+
+![](/img/DOR2026_2.png)
+
+
+
+---
+layout: center
+---
 
 # Objectifs du projet
 
@@ -45,6 +61,8 @@ layout: center
 - Construire une **trajectoire financière sur 4 ans**
 - **Simplifier les process** et **sécuriser les recettes**
 - Anticiper le pilotage des **fins de CDD**
+
+
 
 ---
 layout: two-cols-header
